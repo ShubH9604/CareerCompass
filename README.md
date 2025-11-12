@@ -3,6 +3,8 @@
 > 🚀 An AI-powered chatbot that recommends the best career paths based on your skills, interests, and goals.  
 > Built with **Streamlit** and **Machine Learning (TF-IDF + Cosine Similarity)**.
 
+🎯 **Live Demo:** [https://careercompass-cc.streamlit.app](https://careercompass-cc.streamlit.app)
+
 ---
 
 ## 🌟 Features
@@ -19,18 +21,18 @@
 
 - **Python 3.10+**
 - **Streamlit** – for frontend UI  
-- **pandas** – data handling  
-- **scikit-learn** – TF-IDF + Cosine Similarity  
-- **dotenv** – for environment config  
+- **pandas** – for data handling  
+- **scikit-learn** – for TF-IDF + Cosine Similarity  
+- **dotenv** – for environment configuration  
 
 ---
 
 ## 🧠 How It Works
 
 1. The user describes their interests (e.g., “I like creativity and design”).  
-2. The app converts the text into a **TF-IDF vector**.  
-3. It compares the input vector with career descriptions in `data/careers.csv`.  
-4. It shows the top 5 career roles that best match the user's description.
+2. The app converts the input into a **TF-IDF vector**.  
+3. It compares the vector with job descriptions from `data/careers.csv`.  
+4. It returns the **top 5 career roles** most relevant to the user's input.
 
 ---
 
