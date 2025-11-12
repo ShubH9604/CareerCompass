@@ -1,0 +1,101 @@
+job_role,description,required_skills,industry,typical_experience_years,median_salary_est_usd
+Data Scientist,Analyzes complex datasets to extract insights and build predictive models,"Python, Machine Learning, Statistics, SQL, Data Visualization",Technology,8,40000
+Machine Learning Engineer,Develops scalable ML models and integrates them into production systems,"Python, TensorFlow, PyTorch, Data Engineering, APIs",Technology,10,100000
+AI Researcher,Researches and develops new algorithms to advance artificial intelligence,"Deep Learning, NLP, Research, Python, Statistics",Manufacturing,10,70000
+Data Analyst,Transforms raw data into actionable insights for business decisions,"Excel, SQL, Tableau, Data Cleaning, Reporting",Finance,2,80000
+Business Analyst,Bridges business needs with technical solutions through data and process analysis,"Communication, SQL, Excel, Business Strategy, Documentation",Finance,1,60000
+Frontend Developer,Builds interactive and responsive user interfaces for web applications,"HTML, CSS, JavaScript, React, UI Design",Technology,6,30000
+Backend Developer,"Develops server-side logic, databases, and APIs for applications","Node.js, Django, SQL, REST APIs, Authentication",Technology,5,60000
+Full Stack Developer,Handles both frontend and backend development of web applications,"React, Node.js, MongoDB, Express.js, Deployment",Technology,7,120000
+DevOps Engineer,Automates software delivery pipelines and manages CI/CD systems,"Jenkins, Docker, Kubernetes, Linux, Cloud",Technology,0,70000
+Cloud Engineer,Designs and manages cloud infrastructure for scalable applications,"AWS, Azure, GCP, Terraform, Networking",Technology,1,50000
+Product Manager,Oversees product lifecycle and coordinates teams to deliver features effectively,"Agile, Communication, Leadership, Roadmapping, Market Analysis",Education,3,90000
+Project Manager,Plans and executes projects ensuring timelines and resources are aligned,"Planning, Communication, Risk Management, Agile, Budgeting",Hospitality,10,50000
+UX Designer,"Designs user experiences through research, wireframes, and usability testing","Prototyping, Figma, Research, Design Thinking, Wireframing",Design,4,50000
+UI Designer,Creates visually appealing and user-friendly interface designs,"Figma, Adobe XD, Typography, Color Theory, Prototyping",Design,0,120000
+Graphic Designer,Designs visual content for print and digital media,"Photoshop, Illustrator, Creativity, Branding, Layout Design",Design,3,150000
+Quality Assurance Engineer,Tests software to identify bugs and ensure functionality,"Manual Testing, Automation, Selenium, QA Processes, SDLC",Technology,3,80000
+Test Automation Engineer,Builds automated testing frameworks to ensure product reliability,"Selenium, Python, TestNG, CI/CD, Debugging",Technology,8,40000
+Security Analyst,Monitors and secures systems against cyber threats and vulnerabilities,"Network Security, Firewalls, SIEM, Penetration Testing, Risk Assessment",Finance,7,60000
+Network Engineer,Designs and maintains computer networks ensuring connectivity and security,"Cisco, Routing, Switching, VPN, Firewalls",Technology,8,80000
+Database Administrator,Manages and maintains database systems for integrity and performance,"SQL, MySQL, Oracle, Backup, Performance Tuning",Healthcare,6,100000
+Systems Engineer,"Develops and maintains IT systems, ensuring stability and efficiency","Windows/Linux, Virtualization, Networking, Troubleshooting, Scripting",Technology,10,70000
+Site Reliability Engineer,Improves system reliability and scalability through automation and monitoring,"Monitoring, Cloud, Scripting, Incident Response, CI/CD",Technology,6,120000
+Mobile Developer (Android),Creates Android applications for smartphones and tablets,"Java, Kotlin, Android Studio, UI Design, REST APIs",Technology,1,70000
+Mobile Developer (iOS),Develops iOS applications with seamless performance and UX,"Swift, Xcode, UIKit, Core Data, APIs",Technology,4,150000
+Embedded Systems Engineer,Designs and programs microcontroller-based hardware systems,"C, C++, Embedded Linux, IoT, Circuit Design",Technology,4,50000
+Robotics Engineer,Develops intelligent robotic systems integrating hardware and software,"ROS, Python, Control Systems, Sensors, CAD",Technology,7,80000
+Computer Vision Engineer,Builds models for image and video analysis using deep learning,"OpenCV, TensorFlow, CNN, Python, Image Processing",Technology,8,100000
+NLP Engineer,Creates models that understand and process human language,"Transformers, Hugging Face, NLP, Python, Text Mining",Technology,3,80000
+Speech Recognition Engineer,Develops systems that interpret and process spoken language,"ASR, Signal Processing, Python, TensorFlow, Audio Analysis",Technology,6,90000
+Human Resources Manager,"Oversees HR policies, recruitment, and employee engagement","HR Strategy, Leadership, Communication, Payroll, Conflict Management",Education,1,40000
+Recruiter,Manages end-to-end hiring processes for organizations,"Communication, ATS Tools, Interviewing, Networking, Negotiation",Design,7,120000
+Talent Acquisition Specialist,Focuses on sourcing and hiring top talent for key roles,"Recruiting, LinkedIn, Communication, Negotiation, Strategy",Design,7,50000
+Learning & Development Specialist,Designs and delivers employee training programs,"Instructional Design, Coaching, Communication, LMS, HR Analytics",Technology,3,30000
+Marketing Manager,Plans and executes marketing campaigns to grow brand awareness,"SEO, SEM, Analytics, Branding, Communication",Media,0,40000
+Digital Marketing Specialist,Manages online campaigns and optimizes ad performance,"Google Ads, SEO, Analytics, Copywriting, Social Media",Media,4,70000
+SEO Specialist,Improves website visibility and search ranking on search engines,"SEO Tools, Keyword Research, Google Analytics, Backlinks, Content Writing",Media,0,90000
+Content Strategist,Plans and manages digital content to align with brand goals,"Content Writing, SEO, Strategy, Editing, Research",Media,6,70000
+Social Media Manager,Creates and manages engaging content for social media channels,"Social Media Strategy, Canva, Analytics, Communication, Copywriting",Media,2,70000
+Sales Manager,Leads sales teams to achieve revenue goals,"CRM, Negotiation, Communication, Strategy, Target Management",Design,1,80000
+Account Executive,Manages client relationships and ensures customer satisfaction,"CRM, Communication, Sales, Negotiation, Reporting",Hospitality,3,100000
+Customer Success Manager,Ensures clients achieve success using company products or services,"Communication, Product Knowledge, Empathy, Relationship Management",Hospitality,5,70000
+Business Development Manager,Identifies growth opportunities and builds strategic partnerships,"Lead Generation, Networking, Communication, Negotiation, CRM",Healthcare,4,50000
+Financial Analyst,Evaluates financial data to help guide business investment decisions,"Excel, Finance, Accounting, Modeling, Reporting",Finance,5,60000
+Accountant,Prepares and analyzes financial statements ensuring compliance,"Accounting, Excel, Taxation, Financial Reporting",Finance,5,100000
+Tax Consultant,Advises clients on tax planning and compliance,"Tax Laws, Accounting, Compliance, Excel, Communication",Finance,1,40000
+Investment Analyst,Analyzes financial markets and investment opportunities,"Finance, Research, Excel, Risk Analysis, Portfolio Management",Finance,4,70000
+Risk Analyst,Identifies and evaluates financial and operational risks,"Risk Management, Excel, Finance, Analytics, Compliance",Finance,5,80000
+Operations Manager,Oversees operations to ensure efficiency and productivity,"Management, Leadership, Logistics, Process Optimization",Retail,0,60000
+Supply Chain Manager,"Manages logistics, procurement, and inventory to optimize operations","Supply Chain, ERP, Negotiation, Forecasting",Design,3,60000
+Logistics Coordinator,Plans and monitors transportation and delivery of goods,"Scheduling, Communication, ERP, Inventory Management",Manufacturing,2,50000
+Procurement Specialist,Sources vendors and negotiates purchase contracts,"Procurement, Negotiation, Supply Chain, Vendor Management",Finance,2,120000
+Graphic Illustrator,"Creates illustrations for print, animation, and digital media","Illustrator, Photoshop, Drawing, Creativity",Design,8,60000
+Animator,"Produces animations for videos, games, and digital platforms","After Effects, Blender, Storyboarding, Timing, Creativity",Design,6,90000
+Video Editor,Edits and enhances video content for media production,"Premiere Pro, Final Cut, Storytelling, Timing, Creativity",Media,8,150000
+Motion Graphics Designer,Combines animation and design to create visual effects,"After Effects, Illustrator, Motion Design, 3D, Creativity",Design,1,90000
+Audio Engineer,"Records, edits, and mixes audio for media production","Audacity, Pro Tools, Sound Editing, Mixing",Technology,1,120000
+Occupational Therapist,Helps patients improve daily life skills through therapy,"Therapy, Communication, Patience, Healthcare",Design,8,30000
+Clinical Psychologist,Diagnoses and treats mental health conditions through therapy,"Psychology, Counseling, Empathy, Communication",Healthcare,0,40000
+Counselor,Provides emotional and psychological support to individuals,"Counseling, Communication, Empathy, Problem Solving",Media,10,40000
+Medical Researcher,Conducts studies to advance medical knowledge,"Research, Data Analysis, Lab Skills, Statistics",Healthcare,4,60000
+Pharmacist,Dispenses medication and advises on safe usage,"Pharmacy, Drug Knowledge, Communication, Compliance",Healthcare,0,100000
+Physician (General),Provides primary healthcare and medical advice,"Medicine, Diagnosis, Empathy, Communication",Retail,2,60000
+Nurse,Offers patient care and assists doctors in treatment,"Nursing, Empathy, Communication, First Aid",Healthcare,1,50000
+Dentist,Diagnoses and treats oral health issues,"Dentistry, Precision, Communication, Patient Care",Technology,5,80000
+Veterinarian,Provides medical care for animals,"Veterinary Medicine, Diagnosis, Surgery, Compassion",Healthcare,7,150000
+Public Health Specialist,Develops programs to improve community health,"Epidemiology, Data Analysis, Communication, Policy",Healthcare,4,50000
+Environmental Scientist,Studies and manages environmental issues for sustainability,"Ecology, Data Analysis, Research, GIS",Technology,8,80000
+Sustainability Analyst,Evaluates sustainability practices and develops improvement strategies,"ESG, Data Analysis, Policy, Reporting",Finance,8,60000
+Urban Planner,Designs and develops city plans for sustainable growth,"Planning, GIS, Zoning, Architecture",Education,8,60000
+Civil Engineer,"Designs, constructs, and maintains infrastructure projects","AutoCAD, Structural Analysis, Project Management",Technology,7,30000
+Structural Engineer,Analyzes and designs structures ensuring safety and durability,"Structural Analysis, AutoCAD, Revit, Engineering",Technology,1,100000
+Mechanical Engineer,Designs and develops mechanical systems and devices,"CAD, SolidWorks, Thermodynamics, Manufacturing",Technology,6,120000
+Electrical Engineer,Designs and maintains electrical systems and circuits,"Circuit Design, MATLAB, Power Systems",Technology,1,90000
+Chemical Engineer,Develops processes for chemical manufacturing and materials,"Chemistry, Process Engineering, Safety",Technology,8,80000
+Materials Scientist,Studies and develops new materials for industrial applications,"Materials Testing, Chemistry, Research",Technology,1,60000
+Industrial Designer,Designs and improves products with functionality and aesthetics,"3D Design, CAD, Creativity, Prototyping",Design,1,150000
+Chef,Prepares dishes and manages kitchen operations,"Cooking, Creativity, Time Management, Hygiene",Hospitality,5,30000
+Restaurant Manager,Oversees restaurant operations ensuring quality and service,"Management, Customer Service, Scheduling",Hospitality,6,60000
+Food Technologist,Develops and tests food products for quality and safety,"Food Science, Chemistry, Lab Testing",Design,0,90000
+Nutritionist,Provides dietary advice and health guidance,"Nutrition, Communication, Health, Counseling",Hospitality,7,40000
+Event Planner,Organizes and coordinates events ensuring smooth execution,"Planning, Communication, Budgeting, Negotiation",Hospitality,3,40000
+Legal Counsel,Provides legal advice and ensures compliance,"Law, Contracts, Communication, Negotiation",Government,4,150000
+Paralegal,Supports lawyers by preparing documents and research,"Legal Research, Documentation, Communication",Government,6,120000
+Compliance Officer,Ensures organizations follow regulatory requirements,"Compliance, Risk Assessment, Auditing",Government,10,40000
+Policy Analyst,Researches and evaluates policies to guide decision-making,"Policy, Research, Communication, Writing",Finance,2,30000
+Research Associate,Conducts research and analysis in academic or corporate projects,"Research, Data Analysis, Writing, Communication",Manufacturing,7,80000
+Teacher (Primary),Educates young children with foundational knowledge,"Teaching, Communication, Patience, Creativity",Education,3,50000
+Teacher (Secondary),Instructs students in specialized subjects,"Subject Knowledge, Teaching, Communication",Education,6,80000
+College Lecturer,Teaches college-level subjects and conducts research,"Teaching, Research, Communication, Subject Expertise",Education,6,80000
+Instructional Designer,Designs learning materials and e-learning modules,"Curriculum Design, Storyboarding, LMS",Education,0,30000
+Curriculum Developer,Develops academic curricula and educational materials,"Curriculum Planning, Research, Writing",Technology,1,30000
+Architect,Designs buildings ensuring function and aesthetics,"AutoCAD, Revit, Design, Planning",Design,3,40000
+Interior Designer,Plans and designs functional and aesthetic interior spaces,"AutoCAD, SketchUp, Creativity, Space Planning",Design,7,80000
+Real Estate Agent,"Assists clients in buying, selling, or renting properties","Negotiation, Communication, Sales",Government,8,100000
+Property Manager,Manages rental properties and tenant relationships,"Management, Accounting, Communication",Manufacturing,4,100000
+Landscape Architect,Designs outdoor spaces for functionality and beauty,"Design, AutoCAD, Ecology, Creativity",Design,0,50000
+Photographer,Captures and edits professional photos,"Photography, Photoshop, Lighting",Design,2,120000
+Art Director,Oversees creative projects ensuring visual consistency,"Creativity, Leadership, Branding",Design,8,120000
+Museum Curator,Manages collections and exhibitions in museums,"Research, Curation, History",Manufacturing,6,40000
+Archivist,Preserves and organizes historical documents and records,"Archiving, Cataloging, Research",Design,4,50000
