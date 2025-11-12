@@ -1,7 +1,5 @@
 # 🧭 CareerCompass — Intelligent Career Recommendation Chatbot
 
-![CareerCompass Banner](https://i.imgur.com/MFh3VwR.png)
-
 > 🚀 An AI-powered chatbot that recommends the best career paths based on your skills, interests, and goals.  
 > Built with **Streamlit** and **Machine Learning (TF-IDF + Cosine Similarity)**.
 
